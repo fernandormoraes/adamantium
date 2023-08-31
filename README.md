@@ -17,7 +17,7 @@
 
 ## Why?
 
-You can be asking why in some choices for *adamantium*.
+You can be asking why some choices for *adamantium*.
 
 - Dependencies are registered in a Map using their own runtime type name (faster to retrieve and add)
 - Type binding using runtime type name isn't sweet for syntax, but it is safe, rigid and simple (no code generation or reflection)
